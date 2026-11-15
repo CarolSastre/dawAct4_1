@@ -23,3 +23,4 @@ _de este me acordaré_
 ---
 eso qué es? // una linea horizaontal
 [este está wapo](https://simpsonshomer.neocities.org/)
+<p>todo está casi seguido si no se ponen entre párrafos</p>
